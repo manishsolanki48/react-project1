@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/static/css/main.805bd7d2.css",
+    "main.js": "/static/js/main.0fc20829.js",
+    "static/js/787.28cb0dcd.chunk.js": "/static/js/787.28cb0dcd.chunk.js",
+    "static/media/banner-background-2.png": "/static/media/banner-background-2.f9a5fceaccc717ed39ce.png",
+    "static/media/banner-background-1.png": "/static/media/banner-background-1.b972a8c79b4449944988.png",
+    "static/media/our-term-image.png": "/static/media/our-term-image.ba03b12d0cdd0d636502.png",
+    "static/media/banner-image-2.jpg": "/static/media/banner-image-2.a77907740f72d4e0117c.jpg",
+    "static/media/banner-image.jpg": "/static/media/banner-image.6899f3e6fd69bb68b565.jpg",
+    "static/media/service-image.jpg": "/static/media/service-image.eebbd23355088bffd038.jpg",
+    "static/media/product-image.jpg": "/static/media/product-image.e9348a63144491ff1e61.jpg",
+    "static/media/circle-big-image.png": "/static/media/circle-big-image.ed028babc897756457bc.png",
+    "static/media/blog-image-1.jpg": "/static/media/blog-image-1.746b7dd4986bd4166c68.jpg",
+    "static/media/blog-image-2.jpg": "/static/media/blog-image-2.151d258561c93a37af5c.jpg",
+    "static/media/blog-image-3.jpg": "/static/media/blog-image-3.d7394b2ed0cd84b6090f.jpg",
+    "static/media/product-circle.png": "/static/media/product-circle.6e3a4aa723b62794f688.png",
+    "index.html": "/index.html",
+    "main.805bd7d2.css.map": "/static/css/main.805bd7d2.css.map",
+    "main.0fc20829.js.map": "/static/js/main.0fc20829.js.map",
+    "787.28cb0dcd.chunk.js.map": "/static/js/787.28cb0dcd.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.805bd7d2.css",
+    "static/js/main.0fc20829.js"
+  ]
+}
